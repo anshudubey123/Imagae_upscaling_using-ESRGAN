@@ -19,3 +19,6 @@ run the project using the command
 
 
 python manage.py runserver 
+
+![Screenshot (1)](https://github.com/user-attachments/assets/1eb571ac-f28d-4ead-88a7-1cde9e852eda)
+
