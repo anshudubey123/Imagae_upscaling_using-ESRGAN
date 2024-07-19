@@ -20,5 +20,5 @@ run the project using the command
 
 python manage.py runserver 
 
-![Screenshot (1)](https://github.com/user-attachments/assets/1eb571ac-f28d-4ead-88a7-1cde9e852eda)
 
+![Screenshot (2)](https://github.com/user-attachments/assets/4a9024a4-247d-4090-b95d-54dc4c8c51e6)
