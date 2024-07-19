@@ -1,4 +1,4 @@
-step 1 
+pip step 1 
 clone the repo 
 
 
